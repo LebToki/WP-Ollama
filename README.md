@@ -56,7 +56,7 @@ Developed by **Tarek Tarabichi** from **2TInteractive**
 
 ## License
 
-This is the open-source version. Contact us for licensing options.
+Contact us for licensing options.
 
 ---
 
